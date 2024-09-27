@@ -57,6 +57,6 @@ This starter project is a constant work in progress and contributions are greatl
    - You can also request for a feature [here](https://github.com/dojoengine/dojo-starter/issues), and if it's viable, it will be picked for development.
 
 3. **Create a Pull Request**
-   - It can't get better then this, your pull request will be appreciated by the community.
+   - It can't get better than this, your pull request will be appreciated by the community.
 
 Happy coding!
